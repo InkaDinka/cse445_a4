@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+    <Hotel Rating="4.6">
+        <Name>Post Ranch Inn</Name>
+        <Name>Four Seasons Resort Rancho Encantado Santa Fe</Name>
+        <Phone>831-677-2200</Phone>
+        <Address NearestAirport="Monterey Regional Airport">
+            <Number>47900</Number>
+            <Street>CA-1</Street>
+            <City>Big Sur</City>
+            <State>CA</State>
+            <Zip>93920</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.6">
+        <Name>Four Seasons Resort Rancho Encantado Santa Fe</Name>
+        <Phone>505-946-5700</Phone>
+        <Address NearestAirport="Santa Fe Regional Airport">
+            <Number>198</Number>
+            <Street>NM-592</Street>
+            <City>Santa Fe</City>
+            <State>NM</State>
+            <Zip>87506</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.9">
+        <Name>The Inn Above Tide</Name>
+        <Phone>415-332-9535</Phone>
+        <Phone>800-893-8433</Phone>
+        <Address NearestAirport="San Francisco International Airport">
+            <Number>30</Number>
+            <Street>El Portal</Street>
+            <City>Sausalito</City>
+            <State>CA</State>
+            <Zip>94965</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.4">
+        <Name>Peppermill Resort Spa Casino</Name>
+        <Phone>866-821-9996</Phone>
+        <Address>
+            <Number>2707</Number>
+            <Street>S Virginia St</Street>
+            <City>Reno</City>
+            <State>NV</State>
+            <Zip>89502</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>Westgate River Ranch Resort and Rodeo</Name>
+        <Phone>863-692-1321</Phone>
+        <Address NearestAirport="River Ranch Resort Airport">
+            <Number>3200</Number>
+            <Street>River Ranch Blvd</Street>
+            <City>River Ranch</City>
+            <State>FL</State>
+            <Zip>33867</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>DoubleTree by Hilton Hotel Austin</Name>
+        <Phone>512-454-3737</Phone>
+        <Address NearestAirport="Austin Executive Airport">
+            <Number>6505</Number>
+            <Street>N Interstate Hwy 35</Street>
+            <City>Austin</City>
+            <State>TX</State>
+            <Zip>78752</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.0">
+        <Name>Ramada Plaza by Wyndham Nags Head Oceanfront</Name>
+        <Phone>252-564-7222</Phone>
+        <Phone>800-407-9832</Phone>
+        <Address NearestAirport="Dare County Regional Airport">
+            <Number>1701</Number>
+            <Street>S Virginia Dare Trail</Street>
+            <City>Kill Devil Hills</City>
+            <State>NC</State>
+            <Zip>27948</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Grande Shores Ocean Resort</Name>
+        <Address NearestAirport="Myrtle Beach International Airport">
+            <Number>201</Number>
+            <Street>77th Ave N</Street>
+            <City>Myrtle Beach</City>
+            <State>SC</State>
+            <Zip>29572</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.5">
+        <Name>Grand Canyon Railway and Hotel</Name>
+        <Phone>928-635-4010</Phone>
+        <Address NearestAirport="H. A. Clark Memorial Field Airport">
+            <Number>235</Number>
+            <Street>N Grand Canyon Blvd</Street>
+            <City>Williams</City>
+            <State>AZ</State>
+            <Zip>86046</Zip>
+        
+    </Hotel>
+
+    <Hotel Rating="4.6">
+        <Name>The Eddy Taproom and Hotel</Name>
+        <Phone>720-442-8150</Phone>
+        <Address NearestAirport="Denver International Airport">
+            <Number>1640</Number>
+            <Street>8th St</Street>
+            <City>Golden</City>
+            <State>CO</State>
+            <Zip>80401</Zip>
+        </Address>
+    </Hotel>
+</Hotel>
