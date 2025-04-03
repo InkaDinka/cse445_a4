@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-
+<!-- Defines the structure of the root element which will be a tree of separate hotel elementes -->
     <xsd:element name="Hotels">
         <xsd:complexType>
             <xsd:sequence>
@@ -9,6 +9,7 @@
         </xsd:complexType>
     </xsd:element>
 
+    <!-- Each hotel has a complex type which consist of a sequence of elements that is the hotel information -->
     <xsd:complexType name="HotelType">
         <xsd:sequence>
             <xsd:element name="Name" type="xsd:string"/>
@@ -18,6 +19,7 @@
         <xsd:attribute name="Rating" type="xsd:float" use="optional"/>
     </xsd:complexType>
 
+    <!-- Address is a sub element of the HotelType that is also a complex type consisting of each aspect of an address -->
     <xsd:complexType name="AddressType">
         <xsd:sequence>
             <xsd:element name="Number" type="xsd:integer"/>
@@ -26,7 +28,7 @@
             <xsd:element name="State" type="xsd:string"/>
             <xsd:element name="Zip" type="xsd:integer"/>
         </xsd:sequence>
-        <xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
+        <xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
     </xsd:complexType>
 
 </xsd:schema>
