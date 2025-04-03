@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Root element is Hotel instead of Hotels -->
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="Hotels.xsd">
-
+    <!-- Two names are provided for this Hotel element -->
     <Hotel Rating="4.6">
         <Name>Post Ranch Inn</Name>
         <Name>Four Seasons Resort Rancho Encantado Santa Fe</Name>
         <Phone>831-677-2200</Phone>
-        <Address NearestAirport="Monterey Regional Airport">
+        <Address NearstAirport="Monterey Regional Airport">
             <Number>47900</Number>
             <Street>CA-1</Street>
             <City>Big Sur</City>
@@ -39,7 +40,7 @@
             <Zip>94965</Zip>
         </Address>
     </Hotel>
-
+    <!-- Missing the Nearest Airport attribute in the Address -->
     <Hotel Rating="4.4">
         <Name>Peppermill Resort Spa Casino</Name>
         <Phone>866-821-9996</Phone>
@@ -63,7 +64,7 @@
             <Zip>33867</Zip>
         </Address>
     </Hotel>
-
+    <!-- Missing the Rating attribute -->
     <Hotel>
         <Name>DoubleTree by Hilton Hotel Austin</Name>
         <Phone>512-454-3737</Phone>
@@ -88,7 +89,7 @@
             <Zip>27948</Zip>
         </Address>
     </Hotel>
-
+    <!-- Phone element is missing in this Hotel element -->
     <Hotel>
         <Name>Grande Shores Ocean Resort</Name>
         <Address NearestAirport="Myrtle Beach International Airport">
