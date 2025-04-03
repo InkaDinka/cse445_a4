@@ -7,7 +7,7 @@
     <Hotel Rating="4.6">
         <Name>Post Ranch Inn</Name>
         <Phone>831-677-2200</Phone>
-        <Address NearestAirport="Monterey Regional Airport">
+        <Address NearstAirport="Monterey Regional Airport">
             <Number>47900</Number>
             <Street>CA-1</Street>
             <City>Big Sur</City>
@@ -19,7 +19,7 @@
     <Hotel Rating="4.6">
         <Name>Four Seasons Resort Rancho Encantado Santa Fe</Name>
         <Phone>505-946-5700</Phone>
-        <Address NearestAirport="Santa Fe Regional Airport">
+        <Address NearstAirport="Santa Fe Regional Airport">
             <Number>198</Number>
             <Street>NM-592</Street>
             <City>Santa Fe</City>
@@ -32,7 +32,7 @@
         <Name>The Inn Above Tide</Name>
         <Phone>415-332-9535</Phone>
         <Phone>800-893-8433</Phone>
-        <Address NearestAirport="San Francisco International Airport">
+        <Address NearstAirport="San Francisco International Airport">
             <Number>30</Number>
             <Street>El Portal</Street>
             <City>Sausalito</City>
@@ -44,7 +44,7 @@
     <Hotel Rating="4.4">
         <Name>Peppermill Resort Spa Casino</Name>
         <Phone>866-821-9996</Phone>
-        <Address NearestAirport="">
+        <Address NearstAirport="">
             <Number>2707</Number>
             <Street>S Virginia St</Street>
             <City>Reno</City>
@@ -56,7 +56,7 @@
     <Hotel Rating="4.2">
         <Name>Westgate River Ranch Resort and Rodeo</Name>
         <Phone>863-692-1321</Phone>
-        <Address NearestAirport="River Ranch Resort Airport">
+        <Address NearstAirport="River Ranch Resort Airport">
             <Number>3200</Number>
             <Street>River Ranch Blvd</Street>
             <City>River Ranch</City>
@@ -68,7 +68,7 @@
     <Hotel>
         <Name>DoubleTree by Hilton Hotel Austin</Name>
         <Phone>512-454-3737</Phone>
-        <Address NearestAirport="Austin Executive Airport">
+        <Address NearstAirport="Austin Executive Airport">
             <Number>6505</Number>
             <Street>N Interstate Hwy 35</Street>
             <City>Austin</City>
@@ -81,7 +81,7 @@
         <Name>Ramada Plaza by Wyndham Nags Head Oceanfront</Name>
         <Phone>252-564-7222</Phone>
         <Phone>800-407-9832</Phone>
-        <Address NearestAirport="Dare County Regional Airport">
+        <Address NearstAirport="Dare County Regional Airport">
             <Number>1701</Number>
             <Street>S Virginia Dare Trail</Street>
             <City>Kill Devil Hills</City>
@@ -93,7 +93,7 @@
     <Hotel>
         <Name>Grande Shores Ocean Resort</Name>
         <Phone>866-919-7889</Phone>
-        <Address NearestAirport="Myrtle Beach International Airport">
+        <Address NearstAirport="Myrtle Beach International Airport">
             <Number>201</Number>
             <Street>77th Ave N</Street>
             <City>Myrtle Beach</City>
@@ -105,7 +105,7 @@
     <Hotel Rating="4.5">
         <Name>Grand Canyon Railway and Hotel</Name>
         <Phone>928-635-4010</Phone>
-        <Address NearestAirport="H. A. Clark Memorial Field Airport">
+        <Address NearstAirport="H. A. Clark Memorial Field Airport">
             <Number>235</Number>
             <Street>N Grand Canyon Blvd</Street>
             <City>Williams</City>
@@ -117,7 +117,7 @@
     <Hotel Rating="4.6">
         <Name>The Eddy Taproom and Hotel</Name>
         <Phone>720-442-8150</Phone>
-        <Address NearestAirport="Denver International Airport">
+        <Address NearstAirport="Denver International Airport">
             <Number>1640</Number>
             <Street>8th St</Street>
             <City>Golden</City>
