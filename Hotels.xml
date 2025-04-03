@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Root element that uses the schema defined in Hotels.xsd -->
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="Hotels.xsd">
 
@@ -25,7 +27,7 @@
             <Zip>87506</Zip>
         </Address>
     </Hotel>
-
+    <!-- Provided more than one phone number for this Hotel element -->
     <Hotel Rating="4.9">
         <Name>The Inn Above Tide</Name>
         <Phone>415-332-9535</Phone>
@@ -74,7 +76,7 @@
             <Zip>78752</Zip>
         </Address>
     </Hotel>
-
+    <!-- Provided more than one phone number for this Hotel element -->
     <Hotel Rating="4.0">
         <Name>Ramada Plaza by Wyndham Nags Head Oceanfront</Name>
         <Phone>252-564-7222</Phone>
@@ -87,7 +89,7 @@
             <Zip>27948</Zip>
         </Address>
     </Hotel>
-
+     <!-- Provided no Rating attribute for this Hotel element since it is an optional attribute -->
     <Hotel>
         <Name>Grande Shores Ocean Resort</Name>
         <Phone>866-919-7889</Phone>
