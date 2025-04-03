@@ -40,7 +40,7 @@
             <Zip>94965</Zip>
         </Address>
     </Hotel>
-    <!-- Missing the Nearest Airport attribute in the Address -->
+    <!-- Missing the Nearest Airport attribute in the Address which is a required attribute -->
     <Hotel Rating="4.4">
         <Name>Peppermill Resort Spa Casino</Name>
         <Phone>866-821-9996</Phone>
@@ -64,7 +64,7 @@
             <Zip>33867</Zip>
         </Address>
     </Hotel>
-    <!-- Missing the Rating attribute -->
+        
     <Hotel>
         <Name>DoubleTree by Hilton Hotel Austin</Name>
         <Phone>512-454-3737</Phone>
@@ -110,7 +110,7 @@
             <City>Williams</City>
             <State>AZ</State>
             <Zip>86046</Zip>
-        
+        <!-- No closing tag for this Address elect -->
     </Hotel>
 
     <Hotel Rating="4.6">
